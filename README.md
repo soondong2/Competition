@@ -32,3 +32,11 @@
     - StratifiedKFold
 - 출처 : https://www.kaggle.com/competitions/spaceship-titanic
 <br>
+
+## Customer Segmentation with RFM
+- 주최 기관 : Kaggle
+- Model
+    - K-Means Cluster
+- 출처 : https://www.kaggle.com/code/mahmoudelfahl/cohort-analysis-customer-segmentation-with-rfm/notebook
+<br>
+
